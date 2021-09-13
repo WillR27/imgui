@@ -53,4 +53,4 @@ examples/example_sdl_opengl2/example_sdl_opengl2
 examples/example_sdl_opengl3/example_sdl_opengl3
 
 # Project files
-*.vcxproj.*
+*.vcxproj*
